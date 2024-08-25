@@ -1,20 +1,21 @@
 #თქვენი დავალება იქნება გააკეთოთ ბანკის სისტემა მოცემული სექციებით პითონში,რაც აქამდე ისწავლეთ გააკეთეთ იმ მასალით გამოიყენეთ თქვენი მაქსიმალური ცოდნა,მერე კი ჩვენ შევამოწმეთ თუ რა დონის ცოდნა გამოიყენეთ და იმის მიხედვით შეიგიმოწმებთ
 
 
-print("saqartvelos banki")
-print("registracia")
-print("samushao dgeebi")
-print("orishabati, xutshabati")
-registered = input("what i ur login?: ")
-registered = input("what is ur password?: ")
-email = input("what is ur email?")
-name = input("what is ur name?")
-age = input("what is ur age?")
+# print("saqartvelos banki")
+# print("registracia")
+# print("samushao dgeebi")
+# print("orishabati, xutshabati")
+# registered = input("what i your login?: ")
+# registered = input("what is your password?: ")
+# email = input("what is your email?")
+# name = input("what is your name?")
+# age = input("what is your age?")
 
 
-surname = input("what is ur surname?")
-location = input("where do you live?")
+# surname = input("what is your surname?")
+# location = input("where do you live?")
 
-while surname == location:
-    print('dasasruli')
-    break
+# while surname == location:
+#     print('dasasruli')
+#     break
+
